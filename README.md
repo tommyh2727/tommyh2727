@@ -7,7 +7,8 @@
 
 <h2>  Certifications </h2>
 
--
+- Comptia Security +
+- Cisco Certified Network Associate
 
 <h2> 🤳 Connect with me:</h2>
 
